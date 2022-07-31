@@ -1,0 +1,41 @@
+.ul-header {
+  list-style: none outside none;
+  text-align: center;
+}
+
+.li-header {
+  position: relative;
+  display: inline;
+  margin: 20px;
+}
+body {
+  background-color: #dfbb9d;
+}
+.index-article-p {
+  color: #a084cf;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: medium;
+  margin-top: 50px;
+}
+.index-article-p2 {
+  text-align: center;
+  font-size: medium;
+  margin-top: 70px;
+}
+.ul-article {
+  text-align: center;
+  margin-top: 50px;
+}
+.li-article {
+  list-style-position: inside;
+  list-style-type: upper-roman;
+  margin-top: 20px;
+}
+.index-img {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
