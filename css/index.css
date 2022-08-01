@@ -1,3 +1,8 @@
+body {
+  background-color: #eae3d2;
+}
+
+/****** index css ******/
 .ul-header {
   list-style: none outside none;
   text-align: center;
@@ -8,11 +13,9 @@
   display: inline;
   margin: 20px;
 }
-body {
-  background-color: #dfbb9d;
-}
+
 .index-article-p {
-  color: #a084cf;
+  color: #1c3879;
   text-align: center;
   text-transform: uppercase;
   font-size: medium;
@@ -39,3 +42,24 @@ body {
   margin-right: auto;
   margin-top: 40px;
 }
+/***** product css *****/
+
+/***** about-us css *****/
+.ul-header-about-us {
+  list-style: none outside none;
+  text-align: center;
+}
+
+.li-header-about-us {
+  position: relative;
+  display: inline;
+  margin: 30px;
+}
+.article-p1-about-us {
+  text-align: center;
+  margin: 40px;
+  font-size: medium;
+  line-height: 1.6;
+}
+
+/***** second-hand css *****/
