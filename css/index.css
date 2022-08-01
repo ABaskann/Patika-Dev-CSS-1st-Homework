@@ -1,5 +1,5 @@
 body {
-  background-color: #eae3d2;
+  background-color: #EAE3D2;
 }
 
 /****** index css ******/
@@ -15,7 +15,7 @@ body {
 }
 
 .index-article-p {
-  color: #1c3879;
+  color: #1C3879;
   text-align: center;
   text-transform: uppercase;
   font-size: medium;
@@ -43,6 +43,15 @@ body {
   margin-top: 40px;
 }
 /***** product css *****/
+.ul-article-product {
+  text-align: center;
+  margin-top: 50px;
+}
+.li-article-product {
+  list-style-position: inside;
+  list-style-type: circle;
+  margin-top: 20px;
+}
 
 /***** about-us css *****/
 .ul-header-about-us {
